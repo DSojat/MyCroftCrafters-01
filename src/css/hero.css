@@ -48,7 +48,7 @@
 .hero-icon-arrow {
   fill: #ecd979;
   margin-left: 10px;
-  height: 49px;
+  transform: rotate(-30deg);
 }
 
 .hero-anchor:hover,

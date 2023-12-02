@@ -141,7 +141,7 @@
 
   .order-form-btn-icon {
     fill: #ecd979;
-    height: 49px;
+    transform: rotate(-30deg);
   }
   .order-form-btn:hover,
   .order-form-btn:focus {
@@ -307,6 +307,7 @@
 
   .order-form-btn-icon {
     fill: #ecd979;
+    transform: rotate(-30deg);
   }
   .order-form-btn:hover,
   .order-form-btn:focus {
